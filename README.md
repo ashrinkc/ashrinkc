@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashrin K.C</h1>
-<h3 align="center">An aspiring full stack developer from Nepal</h3>
+<h3 align="center">A full stack developer from Nepal</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
